@@ -17,10 +17,9 @@
 ## 🧑🏻‍💻 Summary
 
 - 8+ years of **blockchain development experience**
-- Expert in **EVM / Solidity** smart contract development
+- Expert in **EVM / Solidity** smart contract development and security
 - Proficient in **Solana programs (Rust + Anchor)**
-- Hands-on experience in **Ethereum client internals**, **Rollup architecture**, and **L2 systems**
-- Contributed to blockchain projects across **three companies**, covering architecture design, protocol development, and node ops
+- Proficient in **Ethereum**, **Rollup architecture**, and **L2 systems**
 
 ---
 
@@ -37,9 +36,8 @@
 ---
 
 ## 📌 What I’m Working On
-- Blockchain infrastructure & L2 rollup systems  
 - High-performance smart contracts  
-- Solana program optimization  
+- Blockchain infrastructure & L2 rollup systems  
 
 ---
 
