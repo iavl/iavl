@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/iavl">
-    <img src="https://img.shields.io/badge/Blockchain-EVM%20%7C%20Solana-6f42c1?style=flat-square" />
+    <img src="https://img.shields.io/badge/Blockchain-EVM%20%7C%20-6f42c1?style=flat-square" />
   </a>
-  <img src="https://img.shields.io/badge/Smart%20Contracts-Solidity%20%7C%20Rust-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Smart%20Contracts-Solidity%20%7C%20Rust+Anchor-orange?style=flat-square" />
 </p>
 
 ---
