@@ -24,14 +24,10 @@
 ---
 
 ## 🚀 Skills
-
-### 🟩 Core Expertise
 - **Smart Contracts:** Solidity · Rust (Anchor)
-- **Blockchain Infra:** Go · EVM internals · Rollup · OP Stack · Arbitrum Nitro · Cosmos SDK
+- **Blockchain Infra:** Go · EVM · Rollup · OP Stack · Arbitrum Nitro · Cosmos SDK
 - **Dev Tools:** Foundry · Hardhat · Anchor Framework
-
-### 🛠 Additional Tools
-- Performance tuning, gas optimization, contract security patterns
+- **Additional Tools:** Performance tuning, gas optimization, contract security patterns
 
 ---
 
