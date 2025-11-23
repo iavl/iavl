@@ -23,14 +23,6 @@
 
 ---
 
-## 🚀 Skills
-- **Smart Contracts:** Solidity · Rust (Anchor)
-- **Blockchain Infra:** Go · EVM · Rollup · OP Stack · Arbitrum Nitro · Cosmos SDK
-- **Dev Tools:** Foundry · Hardhat · Anchor Framework
-- **Additional Tools:** Performance tuning, gas optimization, contract security patterns
-
----
-
 ## 📌 What I’m Working On
 - High-performance smart contracts  
 - Blockchain infrastructure & L2 rollup systems  
