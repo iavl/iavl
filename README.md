@@ -18,8 +18,8 @@
 
 - 8+ years of **blockchain development experience**
 - Expert in **EVM / Solidity** smart contract development and security
-- Proficient in **Solana programs (Rust + Anchor)**
-- Proficient in **Ethereum**, **Rollup architecture**, and **L2 systems**
+- Expert in **Solana programs (Rust + Anchor)**
+- Expert in **Ethereum**, **Rollup architecture**, and **L2 systems**
 
 ---
 
