@@ -27,15 +27,7 @@
 - Blockchain infrastructure & L2 rollup systems  
 
 
-## 🌐 Open Source Projects
-
-### Crossbell Contracts
-Crossbell is an ownership platform composed of an EVM-compatible blockchain and a protocol implemented by a set of smart contracts.
-Repo: https://github.com/Crossbell-Box/Crossbell-Contracts
-
 ---
-
-
 
 <p align="center">
   <i>Building secure, scalable, and elegant blockchain systems.</i>
