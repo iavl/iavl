@@ -15,7 +15,7 @@
 
 ## 🧑🏻‍💻 Summary
 
-- 8+ years of **blockchain development experience**
+- 9+ years of **blockchain development experience**
 - Expert in **EVM / Solidity** smart contract development and security
 - Expert in **Solana programs (Rust + Anchor)**
 - Expert in **Ethereum**, **Rollup architecture**, and **L2 systems**
