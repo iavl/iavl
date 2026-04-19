@@ -22,14 +22,6 @@
 
 ---
 
-## 📌 What I’m Working On
-- High-performance smart contracts  
-- Blockchain infrastructure & L2 rollup systems  
-
-
----
-
-
 ## **Selected Projects (open source / verifiable on mainnet)**
 
 ### **EVM / Solidity**
