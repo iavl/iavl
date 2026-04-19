@@ -37,10 +37,10 @@
 - **RSS3 Network Contracts** — indexer node lifecycle (create / deposit / withdraw / rewards / slashing), user stake / redeem, and reward settlement. 
     * Repo: https://github.com/RSS3-Network/RSS3-Network-Contracts  
 - **RSS3 Pre Staking** — pre-staking (`dividends`): deposit / redeem, rewards by staking term. 
-    * Repo: https://github.com/NaturalSelectionLabs/Pre-Staking/tree/dividends · 
+    * Repo: https://github.com/NaturalSelectionLabs/Pre-Staking/tree/dividends
     * Mainnet: https://etherscan.io/address/0x5301cbbedc048abac7e213184132cf982d593563  
 - **Folo / PowerToken** — upgradeable ERC-20, roles, points, tipping / airdrops / daily mint. 
-    * Repo: https://github.com/RSSNext/follow-contracts · 
+    * Repo: https://github.com/RSSNext/follow-contracts
     * On-chain: https://scan.rss3.io/address/0xE06Af68F0c9e819513a6CD083EF6848E76C28CD8  
 - **BondingCurve / Dynamic BondingCurve** — EVM bonding curves and dynamic curves (inspired by Solana Meteora). 
     * Repo: https://github.com/iavl/bondingcurve-evm
