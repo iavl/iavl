@@ -21,7 +21,6 @@
 - Expert in **Ethereum**, **Rollup architecture**, and **L2 systems**
 
 ---
-
 ## **Selected Projects**
 
 ### **Smart Contracts — EVM (Solidity)**
@@ -36,7 +35,7 @@
   * GitHub: https://github.com/RSS3-Network/RSS3-Network-Contracts
 
 - **Crossbell Protocol**
-  Protocol contracts for social data ownership, supporting on-chain identity, content assetization, social graph relationships, multiple link types such as ERC-721 / Address / URI / Note, and configurable LinkModule / MintModule extensions.
+  Protocol contracts for social data ownership, supporting on-chain identity, content assetization, social graph relationships, multiple link types such as ERC-721 / Address / URI / Note, operator-signed transactions, and configurable LinkModule / MintModule extensions.
   * GitHub: https://github.com/Crossbell-Box/Crossbell-Contracts
 
 - **Crossbell Bridge**
@@ -81,9 +80,9 @@
   * optimism / Celestia DA: https://github.com/RSS3-Network/optimism/tree/feat/celestia-da
 
 - **Crossbell op-geth**
-  EVM execution-layer fork for the Crossbell chain, supporting free-gas transactions.
+  EVM execution-layer fork for the Crossbell chain, supporting developer allowlists, free-gas transactions, and state migration for new chain launches.
   * GitHub: https://github.com/iavl/crossbell-op-geth
-
+    
 ### **Earlier public chains**
 
 - **NetCloth Chain** · *Go, Cosmos SDK, EVM*
