@@ -22,56 +22,66 @@
 
 ---
 
-
 ## **Selected Projects**
 
-### **Smart contracts — EVM (Solidity)**
+### **Smart Contracts — EVM (Solidity)**
+
+- **Orbal Contracts**
+  Yield-aggregating ERC4626 Vault. After users deposit underlying assets into the Orbal main vault, an allocator distributes funds through adapters to external protocols such as Aave V3, Morpho Vault V1, Euler Vault, and Compound V3, rebalancing strategies for better yield. The system supports protocol-level fees and built-in risk controls including roles, caps, timelocks, and force deallocation.
+  * GitHub: https://github.com/Neuralogy/orbal-contracts
 
 - **RSS3 Network**
-  Production-grade protocol contracts for an indexer-node network, covering node creation, deposits, unbonding, rewards, slashing, and user stake / redeem / settlement flows, with emphasis on upgradeability, auditability, and long-term maintainability.
+  Staking and settlement system for the RSS3 Network node ecosystem, covering staking, delegation, unstaking, withdrawal, epoch-based settlement, and slashing. Uses ERC-721 staking positions and supports NFT merge, on-chain SVG metadata generation, supporting security-scanning tooling, and Foundry / Fork tests.
+  * Mainnet: https://scan.rss3.io/address/0x28F14d917fddbA0c1f2923C406952478DfDA5578
   * GitHub: https://github.com/RSS3-Network/RSS3-Network-Contracts
 
-- **Crossbell — protocol, bridge, NFT marketplace**
-  Core modules across the social protocol, cross-chain bridge, and NFT marketplace, including identity / link / content protocols, the Ethereum <> Crossbell asset bridge (dual gateways + validator + quotas and mappings), and marketplace contracts. This project reflects strong experience in **Protocol Design**, **Upgradeable Contracts**, **Cross-chain** infrastructure, and complex permission models.
-  * https://github.com/Crossbell-Box/Crossbell-Contracts
-  * https://github.com/Crossbell-Box/crossbell-bridge-contracts
-  * https://github.com/Crossbell-Box/xShop-contracts
+- **Crossbell Protocol**
+  Protocol contracts for social data ownership, supporting on-chain identity, content assetization, social graph relationships, multiple link types such as ERC-721 / Address / URI / Note, and configurable LinkModule / MintModule extensions.
+  * GitHub: https://github.com/Crossbell-Box/Crossbell-Contracts
+
+- **Crossbell Bridge**
+  Core bridge contracts for Crossbell, implementing deposit, withdrawal, validator multi-signature verification, and cross-chain confirmation between the EVM mainchain and the Crossbell network, with withdrawal limits, pause controls, and reentrancy protection.
+  * GitHub: https://github.com/Crossbell-Box/crossbell-bridge-contracts
+
+- **Crossbell xShop**
+  Core NFT marketplace contracts for the Crossbell ecosystem, covering asks, bids, matching, royalty payments, and ERC-777-based payment flows.
+  * GitHub: https://github.com/Crossbell-Box/xShop-contracts
 
 - **RSS3 Pre-Staking**
-  Mainnet-verifiable pre-staking product. Supports ERC-20 staking with different reward rates across different lock-up periods.
+  Pre-staking product launched before the RSS3 mainnet, supporting ERC-20 staking across multiple lock-up periods (90 / 180 / 270 / 360 days), with each position unlocking rewards linearly over time.
   * Mainnet: https://etherscan.io/address/0x5301cbbedc048abac7e213184132cf982d593563
   * GitHub: https://github.com/NaturalSelectionLabs/Pre-Staking/tree/dividends
 
 - **Folo — PowerToken**
-  Utility token for content / feed use cases. OpenZeppelin-based upgradeable ERC-20 with roles, non-transferable points, tipping and feed balances, and daily mint caps, balancing product-specific logic with upgrade and permission safety.
-  * On-chain: https://scan.rss3.io/address/0xE06Af68F0c9e819513a6CD083EF6848E76C28CD8
+  Utility token for content / feed use cases, built on OpenZeppelin upgradeable ERC-20 and extended with role-based permissions, non-transferable points, taxes, and feed-based tipping flows.
+  * Mainnet: https://scan.rss3.io/address/0xE06Af68F0c9e819513a6CD083EF6848E76C28CD8
   * GitHub: https://github.com/RSSNext/follow-contracts
 
 - **EVM Bonding Curve**
-  Bonding-curve token launch and liquidity migration project, covering virtual-reserve pricing, fee distribution, and liquidity migration. The dynamic version supports multiple curve configurations and AMM-style pricing parameters.
-  * https://github.com/iavl/bondingcurve-evm
-  * https://github.com/iavl/dynamic-bonding-curve-contracts
+  Bonding-curve token issuance and liquidity migration mechanism on EVM, supporting customizable virtual reserves and price discovery, with automatic migration to Uniswap V2; the dynamic version supports multiple curve parameter sets.
+  * Repo 1: https://github.com/iavl/bondingcurve-evm
+  * Repo 2: https://github.com/iavl/dynamic-bonding-curve-contracts
 
 ### **Solana (Rust / Anchor)**
 
-- **Smart Account** · *secp256r1 / WebAuthn*
-  Passkey-centric smart account. Includes core logic such as contact whitelists and restricted delegated execution, enabling arbitrary on-chain instruction execution under whitelist constraints.
+- **Smart Account**
+  Anchor-based Passkey / WebAuthn smart account using **secp256r1** verification. Supports contact, program, and token-mint allowlists, with delegated execution of on-chain instructions under explicit constraints.
   * GitHub: https://github.com/iavl/smart-account-solana
 
 - **Bonding Curve Launchpad**
-  On-chain curve creation with a built-in AMM submodule.
+  Solana bonding-curve issuance mechanism supporting automated token issuance and pricing, covering curve creation, buy / sell flows, parameter updates, and liquidity migration.
   * GitHub: https://github.com/iavl/bondingcurve-solana
 
-### **Rollup / execution layer (Go)**
+### **Chain / Execution Layer (Go)**
 
-- **RSS3 VSL — OP Stack customization** · *Go, op-geth, OP Stack*
-  Modular L2 based on the Optimism stack, including execution-layer and supporting-component customization. Supports **RSS3 as the gas token** and integrates data availability solutions including **NEAR DA** and **Celestia DA**, representing core **OP Stack** and execution-layer experience.
-  * op-geth: https://github.com/RSS3-Network/op-geth (`rss3-main`)
-  * op-node: https://github.com/RSS3-Network/optimism (`rss3-main`)
-  * Celestia DA branch: https://github.com/RSS3-Network/optimism/tree/feat/celestia-da
+- **RSS3 Chain**
+  Modular L2 customization based on OP Stack, supporting RSS3 as the gas token and Alt-DA integration with NEAR DA / Celestia DA.
+  * op-geth: https://github.com/RSS3-Network/op-geth
+  * optimism / NEAR DA: https://github.com/RSS3-Network/optimism
+  * optimism / Celestia DA: https://github.com/RSS3-Network/optimism/tree/feat/celestia-da
 
 - **Crossbell op-geth**
-  EVM execution-layer fork for the Crossbell chain, supporting **Free Gas Transaction**.
+  EVM execution-layer fork for the Crossbell chain, supporting free-gas transactions.
   * GitHub: https://github.com/iavl/crossbell-op-geth
 
 ### **Earlier public chains**
