@@ -13,28 +13,31 @@
 
 ---
 
-## 🧑🏻‍💻 Summary
+## 🧑🏻‍💻 About Me
 
 * 9+ years of **blockchain development experience**
-* Expert in **EVM / Solidity** smart contract development and security
-* Expert in **Solana programs (Rust + Anchor)**
-* Expert in **Ethereum**, **Rollup architecture**, and **L2 systems**
+* Focused on **EVM / Solidity**, smart contract development, and security
+* Experienced with **Solana programs (Rust + Anchor)**
+* Deeply interested in **Ethereum**, **Rollup architecture**, **L2 systems**, and blockchain security
+
+I enjoy exploring protocol design, smart contract security, and the engineering behind decentralized systems.
+
+If you're interested in my work, working on something interesting in Web3, or simply want to exchange ideas about blockchain, smart contracts, security, or L2s, feel free to reach out. I'm always happy to connect and have a good technical conversation.
 
 ---
 
-## 📫 Contact
+## 💬 Let's Connect
 
 <p>
-  <a href="mailto:iavl@proton.me">
-    <img src="https://img.shields.io/badge/Email-iavl%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" />
-  </a>
   <a href="https://t.me/iavldev">
     <img src="https://img.shields.io/badge/Telegram-%40iavldev-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
   </a>
 </p>
 
+You can reach me on Telegram at **[@iavldev](https://t.me/iavldev)**.
+
 ---
 
 <p align="center">
-  <i>Building secure, scalable, and elegant blockchain systems.</i>
+  <i>Building secure, scalable, and elegant blockchain systems — and always open to learning, sharing, and interesting conversations.</i>
 </p>
