@@ -5,10 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/iavl">
-    <img src="https://img.shields.io/badge/Blockchain-EVM%20%7C%20-6f42c1?style=flat-square" />
-  </a>
-  <img src="https://img.shields.io/badge/Smart%20Contracts-Solidity%20%7C%20Rust+Anchor-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/EVM-Solidity-6f42c1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Solana-Rust%20%2B%20Anchor-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/L2-Rollups-blue?style=flat-square" />
 </p>
 
 ---
@@ -18,26 +17,28 @@
 * 9+ years of **blockchain development experience**
 * Focused on **EVM / Solidity**, smart contract development, and security
 * Experienced with **Solana programs (Rust + Anchor)**
-* Deeply interested in **Ethereum**, **Rollup architecture**, **L2 systems**, and blockchain security
+* Deeply interested in **Ethereum, DeFi, Rollups, L2 systems, and blockchain security**
 
-I enjoy exploring protocol design, smart contract security, and the engineering behind decentralized systems.
+---
 
-If you're interested in my work, working on something interesting in Web3, or simply want to exchange ideas about blockchain, smart contracts, security, or L2s, feel free to reach out. I'm always happy to connect and have a good technical conversation.
+## 🚀 Projects
+
+I've worked on smart contracts, DeFi protocols, Solana programs, public chains, and OP Stack-based L2 infrastructure.
+
+**[View selected projects →](./PROJECTS.md)**
 
 ---
 
 ## 💬 Let's Connect
 
-<p>
-  <a href="https://t.me/iavldev">
-    <img src="https://img.shields.io/badge/Telegram-%40iavldev-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-  </a>
-</p>
+If you're interested in my work or would like to exchange ideas about blockchain, smart contracts, protocol security, DeFi, Solana, or L2 infrastructure, feel free to reach out.
 
-You can reach me on Telegram at **[@iavldev](https://t.me/iavldev)**.
+<a href="https://t.me/iavldev">
+  <img src="https://img.shields.io/badge/Telegram-%40iavldev-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+</a>
 
 ---
 
 <p align="center">
-  <i>Building secure, scalable, and elegant blockchain systems — and always open to learning, sharing, and interesting conversations.</i>
+  <i>Building secure, scalable, and elegant blockchain systems.</i>
 </p>
