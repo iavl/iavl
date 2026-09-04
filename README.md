@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <strong>Albert </strong></h1>
+<h1 align="center">👋 Hi, I'm <strong>Albert</strong></h1>
 
 <p align="center">
   <strong>Senior Blockchain Engineer · Smart Contract Developer · Rollup / L2 Builder</strong>
@@ -15,10 +15,23 @@
 
 ## 🧑🏻‍💻 Summary
 
-- 9+ years of **blockchain development experience**
-- Expert in **EVM / Solidity** smart contract development and security
-- Expert in **Solana programs (Rust + Anchor)**
-- Expert in **Ethereum**, **Rollup architecture**, and **L2 systems**
+* 9+ years of **blockchain development experience**
+* Expert in **EVM / Solidity** smart contract development and security
+* Expert in **Solana programs (Rust + Anchor)**
+* Expert in **Ethereum**, **Rollup architecture**, and **L2 systems**
+
+---
+
+## 📫 Contact
+
+<p>
+  <a href="mailto:iavl@proton.me">
+    <img src="https://img.shields.io/badge/Email-iavl%40proton.me-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/iavldev">
+    <img src="https://img.shields.io/badge/Telegram-%40iavldev-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
