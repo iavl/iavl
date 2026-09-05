@@ -36,6 +36,9 @@ If you're interested in my work or would like to exchange ideas about blockchain
 <a href="https://t.me/iavldev">
   <img src="https://img.shields.io/badge/Telegram-%40iavldev-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
 </a>
+<a href="mailto:iavl@proton.me">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
 ---
 
